@@ -14,9 +14,9 @@ This is a repository containing the files of DSSS.
 
 `idm_id`
 
-.
-├── mypackage        
-│  ├── __init__.py  
+
+├── __mypackage__        
+│  ├── ```__init__```.py  
 │  ├── function.py  
 ├── setup.py         
 ├── requirements.txt 
