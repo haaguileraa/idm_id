@@ -14,6 +14,15 @@ This is a repository containing the files of DSSS.
 
 `idm_id`             # Main folder
 .
+├── mypackage        
+│  ├── __init__.py  
+│  ├── function.py  
+├── setup.py         
+├── requirements.txt 
+├── README.md        
+├── .gitignore       
+
+.
 ├── mypackage        # Folder containing our set of functions
 │  ├── __init__.py   # File used to indicate that this folder contains a Python package.
 │  ├── function.py   # File containing our functions
