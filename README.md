@@ -14,12 +14,12 @@ This is a repository containing the files of DSSS.
 
 `idm_id`
 
-
+.   
 ├── __mypackage__        
 │  ├── ```__init__```.py  
 │  ├── function.py  
 ├── setup.py         
-├── requirements.txt 
+├── requirements.txt     
 ├── README.md        
 ├── .gitignore       
 
