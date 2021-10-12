@@ -10,12 +10,11 @@ This is a repository containing the files of DSSS.
 `imshow` - shows an image in a Jupyter notebook
 
 ## Repo's structure
-
+    
    .    
     ├── mypackage   
-    │   ├── init.py   
-    │   └── function.py 
-
+    │   ├── __ init __.py   
+    │   └── function.py     
     ├── setup.py       
     ├── requirements.txt    
     ├── README.md          
