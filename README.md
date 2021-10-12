@@ -11,14 +11,11 @@ This is a repository containing the files of DSSS.
 
 ## Repo's structure
 
-
-`idm_id` 
-
    .    
     ├── mypackage   
     │   ├── __ init __.py   
     │   └── function.py 
-    
+
     ├── setup.py       
     ├── requirements.txt    
     ├── README.md          
