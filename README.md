@@ -15,10 +15,10 @@ This is a repository containing the files of DSSS.
 `idm_id` 
 
    .    
-    ├── mypackage
-    │   ├── __ init __.py
-    │   └── function.py
-    ├── setup.py   
-    ├── requirements.txt
-    ├── README.md       
-    └── .gitignore
+    ├── mypackage   
+    │   ├── __ init __.py   
+    │   └── function.py 
+    ├── setup.py       
+    ├── requirements.txt    
+    ├── README.md          
+    └── .gitignore  
