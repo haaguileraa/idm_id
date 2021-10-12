@@ -11,7 +11,7 @@ This is a repository containing the files of DSSS.
 
 ## Repo's structure
     
-   .    
+    .    
     ├── mypackage   
     │   ├── __ init __.py   
     │   └── function.py     
